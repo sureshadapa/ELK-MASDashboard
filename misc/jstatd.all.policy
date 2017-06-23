@@ -1,0 +1,1 @@
+grant codebase "file:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.31-1.b13.el6_6.x86_64/lib/tools.jar" { permission java.security.AllPermission; };

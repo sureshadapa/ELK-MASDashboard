@@ -1,0 +1,7 @@
+1.Create a policy file.
+2.Start jstatd.
+    jstatd -J-Djava.security.policy=./jstatd.all.policy
+3.From your local desktop connect to this Remote jstatd
+4. Reference
+    http://www.nljug.org/nieuws/blog-profiling-remote-jvm-using-visualvm/
+
